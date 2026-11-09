@@ -36,4 +36,26 @@ Despite it being a simple board (for some ig), it took a lot of mental brainpowe
 To install the firmware, for now just look at this (https://docs.zephyrproject.org/latest/services/authentication/fido2/index.html), im not done with the firmware yet.
 
 
-BOM
+# Bill of Materials (BOM)
+
+| Part | Quantity | Unit Price (USD) | Total (USD) | Vendor |
+|---|---:|---:|---:|---|
+| Button | 2 | $0.54 | $1.08 | [DigiKey](https://www.digikey.com/en/products/detail/würth-elektronik/434133025816/9950810?s=N4IgTCBcDaICwGY4EYEIAxgKwA5kDYQBdAXyA) |
+| LED | 2 | $0.19 | $0.38 | [DigiKey](https://www.digikey.com/en/products/detail/würth-elektronik/150060VS55040/8557182) |
+| 1k Resistor | 2 | $0.10 | $0.20 | [DigiKey](https://www.digikey.com/en/products/detail/vishay-dale/CRCW06031K00FKEA/1174668) |
+| 10k Resistor | 1 | $0.10 | $0.10 | [DigiKey](https://www.digikey.com/en/products/detail/vishay-dale/CRCW060310K0FKEA/1174782) |
+| nRF52840 Chip | 1 | $8.81 | $8.81 | [DigiKey](https://www.digikey.com/en/products/detail/nordic-semiconductor-asa/NRF52840-QIAA-R/7725407) |
+| PCB | 1 | $10.70 | $10.70 | [JLCPCB](https://cart.jlcpcb.com/shopcart/cart/) |
+
+---
+
+## Cost Summary
+
+| Description | Cost (USD) |
+|---|---:|
+| Component Subtotal | $10.57 |
+| PCB Cost | $10.70 |
+| **Grand Total** | **$21.27** |
+
+
+(PCB cost accounts for shipping, hopefully if i get all my grants at once shipping will be a one time thing)
