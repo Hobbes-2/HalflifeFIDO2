@@ -1,0 +1,9 @@
+Part,Quantity,Unit,Total,Vendor
+Button,2,0.54,1.08,https://www.digikey.com/en/products/detail/würth-elektronik/434133025816/9950810?s=N4IgTCBcDaICwGY4EYEIAxgKwA5kDYQBdAXyA
+LED,2,0.19,0.38,https://www.digikey.com/en/products/detail/würth-elektronik/150060VS55040/8557182
+1k Resistor,2,0.1,0.2,https://www.digikey.com/en/products/detail/vishay-dale/CRCW06031K00FKEA/1174668
+10k Resistor,1,0.1,0.1,https://www.digikey.com/en/products/detail/vishay-dale/CRCW060310K0FKEA/1174782
+NRF5284 chip,1,8.81,8.81,https://www.digikey.com/en/products/detail/nordic-semiconductor-asa/NRF52840-QIAA-R/7725407
+PCB,1,10.7,10.7,https://cart.jlcpcb.com/shopcart/cart/
+,,,,
+Total,,,21.27,
